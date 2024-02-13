@@ -42,8 +42,9 @@ content-type: application/json
 	
 {
 	"firstName": "James",
-	"lastName": "Morgan",
+	"lastName": "Newton",
 	"email": "james.morgan@htl.com",
+	"hash": "hhh",
 	"address" : {
 		"street": "Holework Street 23",
 		"zipCode": 31239,
